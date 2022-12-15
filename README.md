@@ -1,5 +1,5 @@
 # 42-Cursus-libft
-This are my files during my time making the project "Libft" on 42
+These are my files during my time making the project "Libft" in 42Porto
 
 Keep up the good work and good luck :)
 
